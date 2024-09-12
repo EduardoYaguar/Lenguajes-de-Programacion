@@ -4,6 +4,7 @@ materia('Base de datos', 3).
 materia('Analisis de algoritmos', 3).
 
 estudiante('Juan', 'Matematicas').
+estudiante('Juan', 'Base de datos').
 estudiante('Andres', 'Base de datos').
 estudiante('Anna', 'Analisis de algoritmos').
 
